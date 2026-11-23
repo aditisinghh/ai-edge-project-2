@@ -31,7 +31,7 @@ flowchart LR
 ## Setup
 
 ```bash
-git clone <repo-url> && cd project-2
+git clone https://github.com/aditisinghh/ai-edge-project-2.git && cd ai-edge-project-2
 python3 -m pip install -r requirements.txt     # or: make setup
 cp .env.example .env                           # add your ANTHROPIC_API_KEY (EIA key optional)
 # MIT Parley: use your sk-parley key and set ANTHROPIC_BASE_URL=https://parley.api.mit.edu
